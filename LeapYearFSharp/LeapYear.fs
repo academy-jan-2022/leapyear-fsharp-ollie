@@ -1,4 +1,4 @@
 
 
 let Check num =
-    num = 4
+    num % 4 = 0 

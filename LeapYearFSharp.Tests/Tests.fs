@@ -9,6 +9,7 @@ open Xunit
 [<InlineData(3, false)>]
 [<InlineData(4, true)>]
 [<InlineData(8, true)>]
+[<InlineData(1800, false)>]
 let ``Check is leap year`` input expected =
     let result = LeapYear.Check input
     Assert.Equal(expected, result)

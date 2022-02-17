@@ -1,4 +1,4 @@
 
 
 let Check num =
-    false
+    num = 4

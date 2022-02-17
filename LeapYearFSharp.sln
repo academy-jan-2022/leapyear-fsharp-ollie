@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeapYearFSharp", "LeapYearFSharp\LeapYearFSharp.fsproj", "{294C3357-512C-40E1-91D3-9D8AC6F4796A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeapYearFSharp.Tests", "LeapYearFSharp.Tests\LeapYearFSharp.Tests.fsproj", "{8A5C6D7E-AC36-4DC3-B8D4-A8A22D71D88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294C3357-512C-40E1-91D3-9D8AC6F4796A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C3357-512C-40E1-91D3-9D8AC6F4796A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C3357-512C-40E1-91D3-9D8AC6F4796A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C3357-512C-40E1-91D3-9D8AC6F4796A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5C6D7E-AC36-4DC3-B8D4-A8A22D71D88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5C6D7E-AC36-4DC3-B8D4-A8A22D71D88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5C6D7E-AC36-4DC3-B8D4-A8A22D71D88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5C6D7E-AC36-4DC3-B8D4-A8A22D71D88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
